@@ -4,4 +4,4 @@
 
 3)[Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-4)
+4)[Majority Element 2](https://leetcode.com/problems/majority-element-ii/description/)
