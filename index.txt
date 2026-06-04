@@ -1,1 +1,0 @@
-if the given number is reversed then u get the same number then the number is said to be palindrome
