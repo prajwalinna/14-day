@@ -5,3 +5,7 @@
 3)[Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 4)[Majority Element 2](https://leetcode.com/problems/majority-element-ii/description/)
+
+5)[Majority Element 1](https://leetcode.com/problems/majority-element/description/)
+
+6)[Replace Elment with greatest on right](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
